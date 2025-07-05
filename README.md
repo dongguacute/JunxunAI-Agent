@@ -1,4 +1,4 @@
-# JunxunAI-Agents
+# JunxunAI-Agent
 An AI Agent that helps Chinese students write military training experience
 
 这是一个能帮你完成写军训心得的AI Agents！
