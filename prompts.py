@@ -30,6 +30,7 @@ def get_rewriting_prompt(ai_thinking: str, word_limit: str = "500") -> str:
 - 文字应具有学生的语气，避免官方或AI口吻；
 - 可以加入一些个人感受、转折和生活化表达；
 - 要真诚自然，不要做作或假装成熟；
+- 请不要使用markdown或其他格式化语言，直接输出纯文本；
 - 请将整段控制在接近 {word_limit} 字左右，太长或太短都会被老师扣分。
 
 AI原文如下：
